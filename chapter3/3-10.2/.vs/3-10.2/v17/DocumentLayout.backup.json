@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dh978\\Desktop\\\uACFC\uC81C\\chapter3\\3-10.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC529E26-9D02-45EF-8129-BC5B444DDCD1}|3-10.2.vcxproj|C:\\Users\\dh978\\Desktop\\\uACFC\uC81C\\chapter3\\3-10.2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC529E26-9D02-45EF-8129-BC5B444DDCD1}|3-10.2.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC529E26-9D02-45EF-8129-BC5B444DDCD1}|3-10.2.vcxproj|C:\\Users\\dh978\\Desktop\\\uACFC\uC81C\\chapter3\\3-10.2\\class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC529E26-9D02-45EF-8129-BC5B444DDCD1}|3-10.2.vcxproj|solutionrelative:class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC529E26-9D02-45EF-8129-BC5B444DDCD1}|3-10.2.vcxproj|C:\\Users\\dh978\\Desktop\\\uACFC\uC81C\\chapter3\\3-10.2\\class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC529E26-9D02-45EF-8129-BC5B444DDCD1}|3-10.2.vcxproj|solutionrelative:class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "class.h",
+              "DocumentMoniker": "C:\\Users\\dh978\\Desktop\\\uACFC\uC81C\\chapter3\\3-10.2\\class.h",
+              "RelativeDocumentMoniker": "class.h",
+              "ToolTip": "C:\\Users\\dh978\\Desktop\\\uACFC\uC81C\\chapter3\\3-10.2\\class.h",
+              "RelativeToolTip": "class.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T03:27:32.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "class.cpp",
+              "DocumentMoniker": "C:\\Users\\dh978\\Desktop\\\uACFC\uC81C\\chapter3\\3-10.2\\class.cpp",
+              "RelativeDocumentMoniker": "class.cpp",
+              "ToolTip": "C:\\Users\\dh978\\Desktop\\\uACFC\uC81C\\chapter3\\3-10.2\\class.cpp",
+              "RelativeToolTip": "class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T03:27:17.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\dh978\\Desktop\\\uACFC\uC81C\\chapter3\\3-10.2\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\dh978\\Desktop\\\uACFC\uC81C\\chapter3\\3-10.2\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T03:27:08.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
